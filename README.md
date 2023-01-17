@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Articles I like:
+
+- [The law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/). Modern software and computers in general are an amazing tower of abstractions, one built upon another. In this article Joel Spolsky explains both the power of abstractions, and some of the problems that arise when they 'leak'. 
