@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 - [The law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/). Modern software and computers in general are an amazing tower of abstractions, one built upon another. In this article Joel Spolsky explains both the power of abstractions, and some of the problems that arise when they 'leak'. 
 - [The Infinite Space Between Words](https://blog.codinghorror.com/the-infinite-space-between-words/). Puts the speed of a modern CPU in perspective by scaling a single clock cycle up to 1 second, and looking at how long other common operations take. 
+- [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/). Some reflections of lessons learned in the first 10 years of a software development career. I (professional programmer since 2012) agree with many of the points in the article.
